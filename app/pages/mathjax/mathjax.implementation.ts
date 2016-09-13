@@ -15,7 +15,7 @@ export class MathJaxDirective {
        //this.el.nativeElement.style.backgroundColor = 'yellow';
        this.el.nativeElement.innerHTML = this.MathJaxInput;
        console.log(this.MathJaxInput);
-       MathJax.Hub.Queue(["Typeset",MathJax.Hub, this.el.nativeElement]);
-       MathJax.Hub.Queue(["Typeset",MathJax.Hub, this.el.nativeElement]);
+       //MathJax.Hub.Queue(["Typeset",MathJax.Hub, this.el.nativeElement]);
+       //MathJax.Hub.Queue(["Typeset",MathJax.Hub, this.el.nativeElement]);
     }
 }
