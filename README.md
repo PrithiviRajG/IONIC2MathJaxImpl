@@ -9,3 +9,6 @@ To run the app
 To see the app in mobile
  1. download Ionic view from play store
  2. Enter view Id - 1cdd2f28 to see the app
+ 
+
+![ScreenShot](https://raw.githubusercontent.com/PrithiviRajG/IONIC2MathJaxImpl/master/screenshots/img.png)
