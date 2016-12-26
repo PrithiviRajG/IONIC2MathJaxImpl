@@ -11,4 +11,4 @@ To see the app in mobile
  2. Enter view Id - 1cdd2f28 to see the app
  
 
-![ScreenShot](https://raw.githubusercontent.com/PrithiviRajG/IONIC2MathJaxImpl/master/screenshots/img.png)
+![ScreenShot](https://github.com/PrithiviRajG/IONIC2MathJaxImpl/blob/master/formulaescreenshot.png)
